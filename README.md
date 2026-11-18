@@ -1,2 +1,11 @@
 # Dashboard_Course_Porsche_sales
-Dashboard Treino de Vendas de Modelos Porsche
+Dashboard Treino de Vendas de Modelos Porsche.
+Pergunta de negócios adicionais ao sugerido nas aulas: Quais os 10 modelos de carros mais vendidos por cidade - Dar limite de avaliação frente a amostra que pode ser imensa, dando foco na análise do decisor; Quais as 3 cidades que mais lucraram no período e qual a renda per capita dos habitantes dessas cidades - Avaliar a relação das vendas com a capacidade de compra dos habitantes de referida cidade. Assim criar estratégias diferenciadas por cidade/região para a manutenção dos clientes e adesão de novos; Quais as 3 cidades que menos lucraram no período e qual a renda per capita dos habitantes dessas cidades - Avaliar a relação da capacidade de compra dos habitantes das cidades selecionadas com os resultados mais fracos de vendas dos modelos, compreendendo-se assim possíveis erros de estratégia e que devem ser evitados nas demais regiões de melhor performance de vendas; Quais as cidades têm tendência de crescimento de vendas e Quais cidades têm tendências de redução de vendas- avaliar passos futuros na gestão para a melhoria de desempenho.
+Fornecido site de fonte de dados oficiais das cidades dos Estados Unidos para permitir a extração da renda per capita das cidades selecionadas com melhores e piores desempenho de vendas
+No prompt houve alterações de perguntas de negócios adicionais descritas aneriormente, sugestão da fonte de dados da população dos Estados Unidos -  https://www.census.gov/, além da sugestão de utilização visual dos sites alemães da Porsche, Mercedes-Benz e Volkswagen.
+A Base de Dados foi corrigida em pequenos detalhes apontados pelo próprio excel.
+Foi utilizada a versão gratuita do ChatGPT com Looker Studio, em face da descontinuação do Canvas. Não foi utilizado agente.
+
+
+
+ 
