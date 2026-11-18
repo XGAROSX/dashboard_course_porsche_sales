@@ -5,5 +5,5 @@ Fornecido site de fonte de dados oficiais das cidades dos Estados Unidos para pe
 No prompt houve alterações de perguntas de negócios adicionais descritas aneriormente, sugestão da fonte de dados da população dos Estados Unidos -  https://www.census.gov/, além da sugestão de utilização visual dos sites alemães da Porsche, Mercedes-Benz e Volkswagen.
 A Base de Dados foi corrigida em pequenos detalhes apontados pelo próprio excel.
 Foi utilizada a versão gratuita do ChatGPT com Looker Studio, em face da descontinuação do Canvas. Não foi utilizado agente.
-Endereço: https://xgarosx.github.io/Dashboard_Course_Porsche_sales/
+Endereço:https://github.com/XGAROSX/dashboard_course_porsche_sales/tree/main).
 <img width="1620" height="1864" alt="Screenshot 2026-11-18 at 02-04-33 PORSCHE Sales Intelligence" src="https://github.com/user-attachments/assets/ef071360-11f3-4af3-b9de-b996b97bb610" />
