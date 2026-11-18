@@ -6,3 +6,4 @@ No prompt houve alterações de perguntas de negócios adicionais descritas aner
 A Base de Dados foi corrigida em pequenos detalhes apontados pelo próprio excel.
 Foi utilizada a versão gratuita do ChatGPT com Looker Studio, em face da descontinuação do Canvas. Não foi utilizado agente.
 Endereço: https://xgarosx.github.io/Dashboard_Course_Porsche_sales/
+<img width="1620" height="1864" alt="Screenshot 2026-11-18 at 02-04-33 PORSCHE Sales Intelligence" src="https://github.com/user-attachments/assets/ef071360-11f3-4af3-b9de-b996b97bb610" />
